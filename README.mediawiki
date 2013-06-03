@@ -1,7 +1,7 @@
 '''Version:''' 0.1
 '''Author:''' Bryce
 '''Author&#39;s Blog:''' http://brycecampbell.me/~bryce/blog
-'''Description:''' RLight is a child theme of my [https://github.com/bryceac/RDarkness RDarkness] theme that present a version that uses lighter colors than its parent theme.
+'''Description:''' RLight is a child theme of my [https://github.com/bryceac/RDarkness RDarkness] theme that presents a version that uses lighter colors than its parent theme.
 
 ==FAQ==
 
