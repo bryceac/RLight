@@ -1,0 +1,48 @@
+'''Version:''' 0.1
+'''Author:''' Bryce
+'''Author&#39;s Blog:''' http://brycecampbell.me/~bryce/blog
+'''Description:''' RLight is a child theme of my [https://github.com/bryceac/RDarkness RDarkness] theme that present a version that uses lighter colors than its parent theme.
+
+==FAQ==
+
+<ul>
+<li>
+<dl>
+<dt style="font-weight:bold">Can I use this theme without RDarkness?</dt><dd>As it is now, that cannot be done. According to the [http://wiki.habariproject.org/en/Parent_and_Child_Themes Habari Project Wiki], the parent must be present. However, if you wish to use it as a standalone theme, which I do not recommend, you can copy all the PHP files from RDarkness to this themes folder, but modifications will need to made.</dd>
+</dl>
+</li>
+<li>
+<dl>
+<dt style="font-weight:bold">What benefits do I have of using this as a child theme?</dt>
+<dd>The biggest benefit, in my opinion, is that any updates applied to the RDarkness, aside from the stylesheet, will automatically be applied to this theme as well, which means there is no need to update, aside from the parent theme.</dd>
+</dl>
+</li>
+</ul>
+
+for more questions, see the README for RDarkness.
+
+== How to install ==
+
+To install this theme, move the RLight folder or clone the repo into
+
+<pre>
+BlogRoot/user/themes/
+</pre>
+
+<dl>
+<dt style="font-weight:bold">BlogRoot</dt><dd>directory where Habari resides</dd>
+<dt style="font-weight:bold">user</dt><dd>user directory</dd>
+<dt style="font-weight:bold">themes</dt><dd>themes directory</dd>
+</dl>
+
+Theme will need to be activated for it to be your theme.
+
+==Support==
+
+If you need help, contact the author at the following email address:
+
+brycecmpbell@gmail.com
+
+==Misc.==
+
+This theme has been tested with Habari 0.9. It is not known if it will work in earlier versions, but it <strong>should</strong> work on 0.8 if the version of RDarkness used is compatible with that version Habari.
