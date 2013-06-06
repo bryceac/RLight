@@ -17,7 +17,7 @@ body {
 /* rules that apply to space above header div */
 #top {
 		text-align:left;
-		background-image:url("images/top.svg");
+		background-image:url("../images/top.svg");
 		background-color:#0099FF;
 		color:#F5F5DC;
 	}
