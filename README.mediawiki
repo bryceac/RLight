@@ -15,7 +15,7 @@
 <ul>
 <li>
 <dl>
-<dt style="font-weight:bold">Can I use this theme without RDarkness?</dt><dd>As it is now, that cannot be done. According to the [http://wiki.habariproject.org/en/Parent_and_Child_Themes Habari Project Wiki], the parent must be present. However, if you wish to use it as a standalone theme, which I do not recommend, you can copy all the PHP and CSS files from RDarkness to this theme's folder, but modifications will need to be made (see [[Convert to Standalone]] for details).</dd>
+<dt style="font-weight:bold">Can I use this theme without RDarkness?</dt><dd>As it is now, that cannot be done. According to the [http://wiki.habariproject.org/en/Parent_and_Child_Themes Habari Project Wiki], the parent must be present. However, if you wish to use it as a standalone theme, which I do not recommend, you can copy all the PHP and CSS files from RDarkness to this theme's folder, but modifications will need to be made (see [[#Convert to Standalone]] for details).</dd>
 </dl>
 </li>
 <li>
