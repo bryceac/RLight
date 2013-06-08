@@ -62,7 +62,7 @@ Although I do not recommend it, this theme can be converted into a Standalone th
 <li>change <strong>body</strong> background color property to #C0C0C0</li>
 <li>change <strong>#top</strong> and <strong>#top a:link, #top a:visited, and #top a:active</strong> color property, which affects font color, to #F5F5DC.</li>
 <li>change <strong>#top</strong> background color property, which provides solid color fallback for the theme, to #0099FF.</li>
-<li>if CSS is in an <strong>assets</strong>, append <em>../</em> to beginning of image background property of <strong>#top</strong> and #header, #footer (which can only be found in RDarkness CSS file and the 0.1 release of this theme, which does not use an assets directory)</li>
+<li>if CSS is in an <strong>assets</strong>, append ''../'' to beginning of image background property of <strong>#top</strong> and #header, #footer (which can only be found in RDarkness CSS file and the 0.1 release of this theme, which does not use an assets directory)</li>
 </ul>
 </li>
 <li>if CSS is in an assets directory, remove <strong>Stack::add()</strong> statement from line 30 in theme.php, since CSS file will be loaded automatically by Habari.</li>
