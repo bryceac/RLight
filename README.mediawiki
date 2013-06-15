@@ -79,7 +79,7 @@ The only modification that <strong>should</strong> be needed, other than removin
 
 If you need help, contact the author at the following email address:
 
-brycecmpbell@gmail.com
+habari@brycecampbell.me
 
 ==Misc.==
 
