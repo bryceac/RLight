@@ -22,7 +22,7 @@ body {
 	}
 
 /* make all link above header div white and have not underline present */		
-#top a:link, #top a:visited, #top a:active {
+#banner a:link, #banner a:visited, #banner a:active {
 											color:#F5F5DC;
 											text-decoration:none;
 										}
