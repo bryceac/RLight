@@ -15,9 +15,8 @@ body {
 	}
 
 /* rules that apply to space above header div */
-#top {
-		text-align:left;
-		background-image:url("../images/top.svg");
+#banner {
+		background: linear-gradient(#0099FF, #000F1A);
 		background-color:#0099FF;
 		color:#F5F5DC;
 	}
