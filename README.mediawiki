@@ -1,6 +1,6 @@
-'''Version:''' 0.2
+'''Version:''' 0.3
 '''Author:''' Bryce
-'''Author&#39;s Blog:''' http://brycecampbell.me/~bryce/blog
+'''Author&#39;s Blog:''' http://blog.brycecampbell.me
 '''Description:''' RLight is a child theme of my [https://github.com/bryceac/RDarkness RDarkness] theme that presents a version that uses lighter colors than its parent theme.
 
 ==Version History==
@@ -9,6 +9,7 @@
 <dt style="font-weight:bold">0.1</dt><dd>Initial release</dd>
 <dt style="font-weight:bold">0.1.1</dt><dd>Minor update. Move CSS to assets folder and remove unnecessary CSS, which makes it more difficult to convert theme to standalone. Released 6/6/2013</dd>
 <dt style="font-weight:bold">0.2</dt><dd>Update to support Habari 0.10 Alpha. Released 6/6/2013 2:18 P.M. P.S.T.</dd>
+<dt style="font-weight:bold">0.3</dt><dd>Update to support responsive variant of parent theme.</dd>
 </dl>
 
 ==FAQ==
